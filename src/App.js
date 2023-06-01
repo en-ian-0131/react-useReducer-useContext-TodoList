@@ -1,4 +1,4 @@
-import { useState, useReducer, useEffect } from 'react'
+import { useState, useReducer } from 'react'
 import './styles/TodoList.css'
 import TodoContents from './component/TodoContents'
 import { Action } from './component/DispatchType'
