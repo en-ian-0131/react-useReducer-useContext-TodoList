@@ -1,0 +1,63 @@
+.todoListInput{
+    padding: 7px 10px;
+   font-size: 25px;
+   border-radius: 10px;
+}
+.todoContent{
+    padding: 7px;
+}
+.todoContent > input[type=checkbox]{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+
+.todoContentSpanDefault{
+    font-size: 25px;
+    margin-right: 10px;
+    color: rgb(0, 170, 0);
+}
+.todoContentSpanComplete{
+    font-size: 25px;
+    font-style: italic;
+    text-decoration: line-through;
+    margin-right: 10px;
+    color: gray;
+}
+
+.buttonCompleteDefault{
+    font-size: 25px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(255, 69, 69);
+    margin-right: 10px;
+}
+.buttonComplete{
+    font-size: 25px;
+    border: none;
+    border-radius: 10px;
+    background-color: greenyellow;
+    margin-right: 10px;
+}
+.buttonDelete{
+    border: none;
+    background-color: rgb(50, 50, 50);
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.buttonEditingDefault{
+    border: none;
+    background-color: rgb(189, 189, 189);
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+}
+.buttonEditing{
+    border: none;
+    background-color:#fdcd86 ;
+    font-size: 25px;
+    border-radius: 10px;
+}
