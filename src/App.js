@@ -1,9 +1,11 @@
-import TodoListUseReducer from './pages/TodoListUseReducer'
+// import TodoListUseReducer from './pages/TodoListUseReducer'
+import TodoListUseReduerUseContext from './pages/TodoListUseReduerUseContext'
 
 function App() {
   return (
     <>
-      <TodoListUseReducer />
+      {/* <TodoListUseReducer /> */}
+      <TodoListUseReduerUseContext />
     </>
   )
 }

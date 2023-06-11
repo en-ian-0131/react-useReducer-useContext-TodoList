@@ -54,10 +54,12 @@
     color: white;
     font-size: 25px;
     border-radius: 10px;
+    margin-right: 10px;
 }
 .buttonEditing{
     border: none;
     background-color:#fdcd86 ;
     font-size: 25px;
     border-radius: 10px;
+    margin-left: 10px;
 }
